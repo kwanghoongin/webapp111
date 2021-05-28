@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net5.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/1d0759c1-c458-4bd2-bf64-51cd30c23850/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/jinweb11"
+}
